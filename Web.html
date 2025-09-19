@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body bgcolor="ADD8E6">
 	<h1>Kondangan Bareng Suami Di Desa Jotang Kecamatan Empang Kabupaten Sumbawa</h1>
